@@ -1,0 +1,7 @@
+fixtures:
+  symlinks:
+    teamicty: "#{source_dir}"
+  forge_modules:
+    stdlib:   "puppetlabs/stdlib"
+    wget:     "maestrodev/wget"
+    mysql:    "puppetlabs/mysql"
